@@ -5,7 +5,7 @@
 </p>
 
 - [Visit](https://luxury-sherbet-7950f9.netlify.app) 
-- Email : priyanshus20k4@gmail.com
+- Email : kaltiw2310@gmail.com
 - Password : 1234
 
 ---
