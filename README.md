@@ -4,7 +4,7 @@
   <b>Full-stack interactive quiz platform</b>
 </p>
 
-- [Visit](https://luxury-sherbet-7950f9.netlify.app) 
+
 - Email : kaltiw2310@gmail.com
 - Password : 1234
 
